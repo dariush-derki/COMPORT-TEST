@@ -7,6 +7,7 @@ Enjoy a frameless, circular UI design with custom styling
 Receive data continuously without freezing the interface (thanks to threading)
 It’s ideal for testing, monitoring, or controlling serial devices like Arduino boards, UART modules, or industrial equipment.
 
+<img width="1132" height="893" alt="serial_img_ap_3" src="https://github.com/user-attachments/assets/2cf719ea-429c-4f49-b2c1-734547ed88b8" />
 
 📝 توضیح فارسی:
 این برنامه با استفاده از PyQt5 و QtSerialPort طراحی شده و یک رابط گرافیکی دایره‌ای برای ارتباط با پورت سریال فراهم می‌کند. کاربر می‌تواند از طریق این فرم:
