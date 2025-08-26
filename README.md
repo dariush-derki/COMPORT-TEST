@@ -6,6 +6,8 @@ Display sent and received messages in two separate, color-coded text boxes
 Enjoy a frameless, circular UI design with custom styling
 Receive data continuously without freezing the interface (thanks to threading)
 It’s ideal for testing, monitoring, or controlling serial devices like Arduino boards, UART modules, or industrial equipment.
+INSTA: DARIUSH DERKI
+YOUTUBE: DARIUSH DERKI
 
 <img width="1132" height="893" alt="serial_img_ap_3" src="https://github.com/user-attachments/assets/2cf719ea-429c-4f49-b2c1-734547ed88b8" />
 
