@@ -1,3 +1,12 @@
+<img width="1300" height="809" alt="pic_project" src="https://github.com/user-attachments/assets/a8115930-afad-42f3-be8c-4b5e14ced246" />
+
+Platform: Windows  
+Python: 3.10+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dariush-derki/circular_control/main/pic_project.png" width="600" alt="Project Screenshot">
+</p>
+
 📝 English Summary:
 This program is built using PyQt5 and QtSerialPort, providing a circular-shaped graphical interface for serial communication. It allows the user to:
 Connect to a serial port and select the desired baud rate
